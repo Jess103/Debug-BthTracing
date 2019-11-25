@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-[LG X Power]
+**[LG X Power]**
 1. Reconnect
 2. Disconnect via PC
 3. Reconnect
@@ -17,7 +17,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-[LG V40, Galaxy S9+]
+**[LG V40, Galaxy S9+]**
 
 Unfortunately, I could not reproduce the issue (working weird when I disconnect on peripheral side)
 
