@@ -19,8 +19,12 @@
 
 [LG V40, Galaxy S9+]
 Unfortunately, I could not reproduce the issue (working weird when I disconnect on peripheral side)
+
 Instead, I captured other weird issue, which they 
+
 *****keep CONNECT then DISCONNECT >>>SEVERAL TIMES<<< before they really connect*****
+
 This issue happens all the time (especially w/ V40)
+
 
 If I need to open up a new session for this question, plz lemme know!
