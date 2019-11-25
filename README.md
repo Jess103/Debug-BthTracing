@@ -1,6 +1,6 @@
 *The devices are ALREADY PAIRED, and had connect-disconnect(-reconnect-disconnect....) steps beforehand
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 
 [LG X Power]
 1. Reconnect
@@ -15,7 +15,7 @@
 10. Disconnect via PC
 11. Reconnect
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 
 [LG V40, Galaxy S9+]
 Unfortunately, I could not reproduce the issue (working weird when I disconnect on peripheral side)
