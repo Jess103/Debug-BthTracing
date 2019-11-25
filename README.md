@@ -25,7 +25,7 @@ Instead, I captured other weird issue, which they
 
 **keep CONNECT then DISCONNECT >>>SEVERAL TIMES<<< before they really connect**
 
-This issue happens all the time (especially w/ V40)
+This issue happens almost all the time (especially w/ V40)
 
 
 If I need to open up a new session for this question, plz lemme know!
